@@ -25,6 +25,14 @@ And seeing as I never ever do something even remotely properly, I'm putting this
 
 I've never used photogrammetry before, nor have I tried replicating a real-world object, so below lie the details of my misadventures.
 
+### Update 5
+
+![Current result](blog/photogrammetry02.jpg)
+
+Well Josh Groban me sideways, adding [talcum powder](https://www.cancer.org/cancer/cancer-causes/talcum-powder-and-cancer.html) and retrying the photogrammetry process worked like a dream (and not like the ones where I've accidentally chewed too hard and crushed my teeth into bits and have to slowly spit them out)!
+
+It's going to be so much less impossible for me to attempt this complicated piece now, with the bonus of me just being able to wash it when I fail!
+
 ### Update 4
 
 ![Current result](blog/attempt04.jpg)
