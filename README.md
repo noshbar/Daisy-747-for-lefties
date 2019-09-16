@@ -25,6 +25,19 @@ And seeing as I never ever do something even remotely properly, I'm putting this
 
 I've never used photogrammetry before, nor have I tried replicating a real-world object, so below lie the details of my misadventures.
 
+#### Update 3
+
+![Current result](blog/attempt03.jpg)
+
+I fixed the vertical scale, but then left a weird saggy bit at the bottom, because I take pride in my work.
+
+I was playing with print settings, hence the back hole looks as if it has had sunnier days.
+
+But overall, the grip actually feels rather good now, however the sharp back piece is still outside the bounds of the grip area a bit, so will probably be uncomfortable in the long run.
+
+I also imagine this becoming slightly slippery after prolonged usage, so I need to learn how to add a stippling texture or something.
+
+
 #### Update, number 2
 
 ![Current result](blog/attempt02.jpg)
@@ -37,6 +50,7 @@ It doesn't smell like wood.
 But it *is* slightly more grippy now...
 
 No.
+
 
 #### Update 1
 
