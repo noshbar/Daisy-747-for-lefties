@@ -25,6 +25,26 @@ And seeing as I never ever do something even remotely properly, I'm putting this
 
 I've never used photogrammetry before, nor have I tried replicating a real-world object, so below lie the details of my misadventures.
 
+### Update 6
+
+![Current result](blog/attempt05.jpg)
+
+After the talcum powder worked so well with the photogrammetry process, I figured, "Why try hard and make a box repro, why not just MASH BOOLEAN BITS INTO IT until it takes shape?"
+
+*et voilà*, work is done.  
+Not quite, but still.
+
+As you can clearly see, it's a mess, I'm not sure about the shape or scale, but ever the hopeless optimist (that's why I'm always so sad!), I'm giving it a print with the remaining bit of filament I have left.
+
+It has the stipling on! My horse for stipling!
+
+I pulled the photogrammetry mesh in, boolean'd the hell out of it, then sculpted bits until it "looked right".
+
+The 3D print that will be done in an hour will tell me how wrong my right is.
+
+![Current result](blog/boxless.jpg)
+*hopefully I won't be needing YOU any more...*
+
 ### Update 5
 
 ![Current result](blog/photogrammetry02.jpg)
