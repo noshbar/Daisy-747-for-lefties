@@ -7,6 +7,10 @@ Download `left-grip.stl` and 3D print it.
 Check out the Blender files in `sources` if you want to edit anything.
 **NOTE**: this is a **WIP**, not perfect yet.
 
+  * Having made the grip bulgier, the screw countersink isn't deep enough, so the screw no longer reaches the screwhole, meaning you can't actually attach it right now.
+  * The bottom is a bit saggy, need to tighten it up a bit
+  * The thin extrusion at the top to "lock" into the slot on the gun is way too small, needs a 2x scale, probably.
+
 ## Blog
 
 I recently bought a second-hand [Daisy 747 air pistol](https://www.pyramydair.com/s/m/Daisy_Match_Grade_Avanti_747_Triumph_Match/308) with the intent of becoming an Olympic-quality target shooter.
@@ -21,12 +25,25 @@ And seeing as I never ever do something even remotely properly, I'm putting this
 
 I've never used photogrammetry before, nor have I tried replicating a real-world object, so below lie the details of my misadventures.
 
+#### Update, number 2
+
+![Current result](blog/attempt02.jpg)
+
+No, that's not the result of finding where the sun doesn't shine and storing it there.
+No no, this is the result of me thinking, *"I wonder what it would look like if it were slightly more wood"*, and then stupidly going to the hardware store (where I really shouldn't be allowed in) and buying "plastic wood", smearing it all over, and carefully sanding it poorly.
+
+It doesn't look like wood.
+It doesn't smell like wood.
+But it *is* slightly more grippy now...
+
+No.
+
 #### Update 1
 
 ![Current result](blog/photogrammetry01.jpg)
 screenshot of the photogrammetry result, available in `sources/photogrammetry01.blend`
 
-I took 30 poorly-lit photos of the existing grips and shoved them into [MeshRoom](https://alicevision.org/#meshroom), which only took a few minutes to give me a really gross point cloud.
+I took 20 poorly-lit photos of the existing grips and shoved them into [MeshRoom](https://alicevision.org/#meshroom), which only took a few minutes to give me a really gross point cloud.
 
 From there, I imported the `OBJ` into [Blender 2.8](https://www.blender.org/) and removed a bunch excess points to make things a little more responsive. The screenshot above is the result of that process.
 
