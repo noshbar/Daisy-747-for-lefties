@@ -19,7 +19,7 @@ I really like it, but it wasn't built for *sinister* people like me.
 This is due to the existing left grip being specially shaped to house the thumb of the right hand.
 
 I searched near and far online for lefty replacements, but alas, no left-handed dice.
-So I decided to remake the grips for lefties, or at the very least, a mirrored version of the right grip for the left (for now).
+So I decided to remake the grips for lefties, or at the very least, a mirrored version of the right grip for the left (for now, I'm going to try something else for the more complicated thumb-grip).
 
 And seeing as I never ever do something even remotely properly, I'm putting this out into the world so I can at least try and shame myself into making a tiny bit of an effort (and [Thingiverse](http://www.thingiverse.com) just isn't working for me).
 
