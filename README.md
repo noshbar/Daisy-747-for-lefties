@@ -43,12 +43,12 @@ I feel that I should point out that I have rarely done anything more complicated
 
 So it is with much remorse that I explain how I got the "stipple" on the grip:
 
-  * made a noise texture in [Paint.NET](https://www.getpaint.net/), then *pixelated* it
+  * made a procedural triangle texture
   * duplicated the grip
     * applied all the modifiers
     * cut out just the bit I wanted to have stippling on
     * added a displacement modifier
-    * used the noise texture for the displacement
+    * used the triangle texture for the displacement
     * added a subdivision modifier
   * slowly moved the duplicated bits down until they looked "right".
 
