@@ -65,6 +65,12 @@ I also tried making the grip bulkier for a more comfortable grip in *my hand*, a
 So yeah. You live, you learn.  
 And I have so much more to live.
 
+P.S. I can't wait for this grip to be finished "good enough" so I can print it out as a cast and shove some clay in there and see what that's like!
+
+![Current result](blog/cast01.jpg)
+I *was* going to spurt a whole tube of plastic wood in there for that real authentic wood with less throat-burn, but after my earlier failed experiment, maybe not.
+
+Although, if I gather a bunch of the sawdust I've generated over the past month and mix it with glue...
 
 ### Update 3
 
