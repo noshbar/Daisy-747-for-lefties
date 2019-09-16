@@ -25,6 +25,47 @@ And seeing as I never ever do something even remotely properly, I'm putting this
 
 I've never used photogrammetry before, nor have I tried replicating a real-world object, so below lie the details of my misadventures.
 
+#### Update 4
+
+![Current result](blog/attempt04.jpg)
+
+Cheesy crust and the mother Maredsous... adding a texture to the grips was *difficult*.
+
+Not only is it almost impossible to search for *"blender surface texture"*, but trying to get the texture (read: real world feeling on your fingers, stippling, *not an image*) to follow the shape of the mesh was really difficult, *for me*.
+
+I really just wanted to project an image containing a stipple onto the grip, and then displace it, thank you bye bye now.
+
+But nooo.
+
+I feel that I should point out that I have rarely done anything more complicated in [Blender](https://www.blender.org/) than play with the fluid sim, occasionally fixing TinkerCad bits, and [making very simple cubey things](https://www.deviantart.com/noshbar).
+
+![Most popular burger, this place](blog/displacehowmuch.jpg)
+
+So it is with much remorse that I explain how I got the "stipple" on the grip:
+
+  * made a noise texture in [Paint.NET](https://www.getpaint.net/), then *pixelated* it
+  * duplicated the grip
+    * applied all the modifiers
+    * cut out just the bit I wanted to have stippling on
+    * added a displacement modifier
+    * used the noise texture for the displacement
+    * added a subdivision modifier
+  * slowly moved the duplicated bits down until they looked "right".
+
+Looking back at what I just wrote, I don't think I was being that stupid, but I really thought I would just be able to take an image of a stippled texture and "stamp" it on using the sculpting tools, or something.
+
+But when I looked into sculpting and making my own brush with a custom material, a. I am a stupid, and b. it would only ever "paint"/"stamp" in a circle shape, which if I made large enough to cover the area I wanted, it'd mess up the clean edges of the grip.
+It would also displace the back of the grip, for some reason, even if X-Ray was off.
+
+I also tried making the grip bulkier for a more comfortable grip in *my hand*, and it resulted in:
+
+  * being much more comfortable *for me*
+  * being broken, in that the screw no longer reaches the screwhole.
+
+So yeah. You live, you learn.
+And I have so much more to live.
+
+
 #### Update 3
 
 ![Current result](blog/attempt03.jpg)
