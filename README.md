@@ -1,15 +1,15 @@
-# Left-handed Daisy 717/747 grips
+# Left-handed Daisy 717/747 air pistol grips
 
 ![Current result](blog/result.jpg)
 
 ## TL;DR;
-Download `left-grip.stl` and 3D print it.  
+Download `left-grip.stl` and `right-grip.stl` and 3D print them.  
 Check out the Blender files in `sources` if you want to edit anything.  
 **NOTE**: this is a **WIP**, not perfect yet.
 
-  * Having made the grip bulgier, the screw countersink isn't deep enough, so the screw no longer reaches the screwhole, meaning you can't actually attach it right now.
-  * The bottom is a bit saggy, need to tighten it up a bit
-  * The thin extrusion at the top to "lock" into the slot on the gun is way too small, needs a 2x scale, probably.
+  * Having made the grip bulgier on the left side, the screw countersink isn't deep enough, so the screw no longer reaches the screwhole, meaning you can't actually attach it right now.
+  * The bottom of the left grip is a bit saggy, need to tighten it up a bit
+  * The thin extrusion at the top to "lock" into the slot on the gun is way too small on the left side (needs a 2x scale, probably), and too large on the right side.
 
 ## Blog
 
@@ -24,6 +24,27 @@ So I decided to remake the grips for lefties, or at the very least, a mirrored v
 And seeing as I never ever do something even remotely properly, I'm putting this out into the world so I can at least try and shame myself into making a tiny bit of an effort (and [Thingiverse](http://www.thingiverse.com) just isn't working for me).
 
 I've never used photogrammetry before, nor have I tried replicating a real-world object, so below lie the details of my misadventures.
+
+### Update 7
+
+![Current result](blog/attempt06.jpg)
+
+It actually almost worked first time! And I didn't run out of filament!
+
+  * Once again, the back hole isn't deep enough *(easily fixed with a drill)*
+  * The top grip slit clip is mildly too thick *(a very quick sand/file fixed it)*
+
+Oh man, so happy.  
+Even though I printed draft at 0.3mm, the stipling and grip texture is great!  
+Such a good result from so much less work, I think I'll have to redo the other simpler grip in this way, too.
+
+Gotta fix the scales in my files, though.  
+This grip needs to be 94mm high for printing, so exported at 160 times scale.  
+Whereas the other side needs to be exported at 250 times scale.  
+Lessons learnt the hard way.
+
+But now I have to wait for filament to arrive from Amazon before I can continue.  
+My *wood* filament...
 
 ### Update 6
 
