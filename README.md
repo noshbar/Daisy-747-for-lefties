@@ -7,9 +7,9 @@ Download `left-grip.stl` and `right-grip.stl` and 3D print them.
 Check out the Blender files in `sources` if you want to edit anything.  
 **NOTE**: this is a **WIP**, not perfect yet.
 
-  * Having made the grip bulgier on the left side, the screw countersink isn't deep enough, so the screw no longer reaches the screwhole, meaning you can't actually attach it right now.
-  * The bottom of the left grip is a bit saggy, need to tighten it up a bit
-  * The thin extrusion at the top to "lock" into the slot on the gun is way too small on the left side (needs a 2x scale, probably), and too large on the right side.
+  * The (now)right grip's screw hole needs drilling to fit
+  * The (now)right grip's clip extrusion needs filing/sanding down a bit
+  * The (now)left grip is untested
 
 ## Blog
 
@@ -24,6 +24,20 @@ So I decided to remake the grips for lefties, or at the very least, a mirrored v
 And seeing as I never ever do something even remotely properly, I'm putting this out into the world so I can at least try and shame myself into making a tiny bit of an effort (and [Thingiverse](http://www.thingiverse.com) just isn't working for me).
 
 I've never used photogrammetry before, nor have I tried replicating a real-world object, so below lie the details of my misadventures.
+
+### Update 8
+
+![Current result](blog/attempt07.jpg)
+
+After spraying the grip with dandruff, the photogrammetry did indeed come out better than last time.  
+But it... looks worse than the complicated thumb grip, I guess because it just has fewer details to latch onto?  
+
+Or it's because I half-arsed it because I'm tired.
+
+No filament to test it, but should be more or less good to go.  
+The leading edge *might* have been cut off a bit too much, maybe I'll cheat and scale it to be slightly wider later.
+
+We'll see what the filament gods say.
 
 ### Update 7
 
